@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 *.VC.db
+*.uasset
+*.png
+*.umap
+../*.fbx
 
 # Compiled Object files
 *.slo
